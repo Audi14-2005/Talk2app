@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.audi14.snack8f3d52ed4014462da3e7eba73969390f"
     },
     "web": {
       "favicon": "./assets/favicon.png"
